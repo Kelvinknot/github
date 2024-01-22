@@ -1,1 +1,2 @@
   This is my first file. Doing fine.
+This is my second file with Git. I think I will be getting used to it quickly. VPN? 
